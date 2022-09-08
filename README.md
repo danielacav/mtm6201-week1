@@ -5,4 +5,4 @@ Welcome to Web Dev II
 - GitHub repositories
 - GitHub Pages
 - GitHub Issues 
-- [Markdown] (https://www.markdownguide.org/cheat-sheet)
+- [Markdown](https://www.markdownguide.org/cheat-sheet)
